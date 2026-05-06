@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+venv310/
+server/venv310/
+
+# Node
+node_modules/
+
+# Env
+.env
+
+# Build
+dist/
+build/
